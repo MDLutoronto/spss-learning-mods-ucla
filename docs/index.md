@@ -14,6 +14,6 @@ Comprehensive set of guides that include obtaining SPSS, learning SPSS fundament
 
 <http://stats.idre.ucla.edu/spss/?$>
 
-Tools: [SPSS](/tools/spss)
+**Tools:** [SPSS](https://mdlutoronto.github.io/tutorials-search/?tool=SPSS)
 
 **Date Created:** 2017\-05\-05 **Updated:** 2021\-09\-24
