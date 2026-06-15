@@ -4,8 +4,8 @@ layout: "home"
 description: "Comprehensive set of guides that include obtaining SPSS, learning SPSS fundamentals and advanced data analysis examples."
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
- - name: Leanne Trimble
-   link: https://library.utoronto.ca/staff/leanne-trimble
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 created_date: 2017-05-05
 ---
 
